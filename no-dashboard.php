@@ -4,7 +4,7 @@
     Plugin URI: http://www.stevenfernandez.co.uk/wordpress-plugins/
     Description: No Dashboard is a simple plugin which removes the wordpress dashboard. No settings page, just activate the plugin and the dashboard with disappear.
     Author: Steven Fernandez
-    Version: 1.1.1
+    Version: 1.1.2
     Author URI: http://www.stevenfernandez.co.uk
 
     === RELEASE NOTES ===
