@@ -11,6 +11,7 @@
     20-04-2014 - v1.0 - first version
     21-04-2014 - v1.1 - fixed small bug
     21-04-2014 - v1.1.1 - minor info changes
+    21-04-2014 - v1.1.2 - Tested on WP version 3.9
     */
 
 global $wp_version;
